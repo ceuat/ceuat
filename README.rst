@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Concursul Elevilor Uneori ATenți
+================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+CEUAT
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Cel mai tare concurs

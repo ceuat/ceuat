@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+Concursul Elevilor Uneori ATenți
+================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Concursul Elevilor Uneori ATenți (CEUAT) a fost creat cu un scop foarte diferit față de
+alte concursuri sau olimpiade de informatică. La sfârșitul fiecărei runde se vor
+acorda trei premii pentru:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+- **prima** soluție corectă trimisă,
+- **cel mai scurt cod** (formatat corect) și, respectiv,
+- **cel mai creativ** mod de rezolvare.
 
-.. note::
+Dacă ești interesat, consultă regulamentul la secțiunea :doc:`regulament` și înscrie-te sau alătură-ne pe `server-ul de Discord <https://discord.gg/mvKtP9SvZh>`_ pentru anunțuri și alte informații.
 
-   This project is under active development.
-
-Contents
---------
+CEUAT
+-----
 
 .. toctree::
 
-   usage
-   api
+   regulament
