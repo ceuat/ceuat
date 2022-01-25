@@ -43,7 +43,7 @@ Reguli și organizarea concursului
 4. Filmările vor fi încărcate pe Google Drive sau pe YouTube.
 5. Nu se va permite accesarea altor pagini web în afară de pbinfo și discord. De asemenea, se interzic manualele, caietele, documentațiile, mesajele etc. care ar putea fi folosite pentru rezolvarea problemelor.
 6. Comunicarea cu alte persoane în timpul rundei este, bineînțeles, interzisă.
-7. Se va încărca maxim o soluție, la final de concurs, într-un formular. Filmarea trebuie să conțină această etapă.
+7. Se vor încărca maxim 10 surse (neapărat de 100 puncte pe pbinfo), dintre care prima va fi luată în cazul în care vă calificați pentru premiul de „prima soluție corectă trimisă”; dacă nu, se ia în considerare ultima sursă încărcată.
 8. Link-ul către filmare trebuie pus și el într-un formular, la maxim 24 ore după rundă.
 9. În general, nu trișa, have fun.
 
